@@ -1,0 +1,52 @@
+.container, .container-late, .container-mocca, .container-helado, .containernav, .container-expresso, .presentacion{
+    display:flex;
+    align-items: center;
+    border: 1px solid rgb(202, 139, 4);
+}
+body{
+    width: 90%;
+    margin: 0 auto;
+    background-color: rgba(250, 223, 184, 0.733);
+    padding: 20px 50px 50px 50px;
+
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    border: 1px solid rgb(202, 139, 4);
+}
+
+.intro{
+    text-align: center;
+}
+.home{
+    margin: 0 30px;
+}
+.texto1{
+    margin: 0 30px;
+    
+}
+
+.study{
+    margin: 0 30px;
+}
+
+.experience{
+    margin: 0 30px
+}
+
+.conocer{
+    margin: 0 30px;
+}
+.principal{
+    margin: 0 30px
+}
+
+.imagen{
+    width: 300px;
+    height: 300px;
+    display:flex;
+    margin: 0 30px
+    
+}
